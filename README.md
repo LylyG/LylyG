@@ -5,5 +5,5 @@ I'm a bookworm turned designer that likes to code. Currently, I work at NC State
 
 
 ## Connect with Me
-- [Portfolio](http://www.lyrechelgalarza.com/) <br/>
+- [Portfolio](http://lylyg.github.io/) <br/>
 - [Linkedin](https://www.linkedin.com/in/lgalarzapunter/) <br/>
