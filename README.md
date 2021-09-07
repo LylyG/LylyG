@@ -13,5 +13,5 @@ I love having variety in my daily tasks and opportunities to learn. Most of time
 
 
 ## Connect with Me
-- [Portfolio](http://lylyg.github.io/) <br/>
+- [Portfolio](https://lyrechelgalarza.dev/) <br/>
 - [Linkedin](https://www.linkedin.com/in/lgalarzapunter/) <br/>
