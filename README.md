@@ -1,6 +1,6 @@
 # Hola! I'm Lyrechel 💁🏽‍♀️
 
-I'm a bookworm turned designer that likes to code. Currently, I work at NC State University as a User Experience Developer. 
+I'm a bookworm turned designer that likes to code. Currently, I'm a Junior Software Developer at Nutanix. 
 
 ## What I do every day
 
